@@ -1,6 +1,7 @@
-
+/* Footer */
 .subnav-hero-section {
-  text-align: center;
+  text-align: left;
+  padding: 1rem;
   background: #EC2300;
   background-size: cover;
   position: relative;
@@ -8,13 +9,20 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  height: 300px;
+  -webkit-align-items: left;
+      -ms-flex-align: left;
+          align-items: left;
+  -webkit-justify-content: left;
+      -ms-flex-pack: left;
+          justify-content: left;
+  height: 60px;
+}
+
+.logo-header {
+    width: 150px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .subnav-hero-section .subnav-hero-headline {
@@ -24,7 +32,10 @@
 .subnav-hero-subnav {
   float: none;
   position: absolute;
-  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1%;
+  text-align: right;
   margin: 0 auto;
   bottom: 0;
   width: 100%;
@@ -54,7 +65,7 @@
   background: rgba(254, 254, 254, 0.15);
 }
 
-
+/* Footer */
 .social-footer {
     padding: 1rem;
     background: #000000;
@@ -83,6 +94,6 @@
     transition: color 0.3s ease-in;
   }
   
-  .logo {
+  .logo-footer {
     width: 150px;
   }
