@@ -1,0 +1,95 @@
+{
+    "mentores": [
+        {
+            "nome": "Letícia Santos",
+            "calendario": "https://calendly.com/tixas2/mentoria-bare",
+            "pronomes": "ela/dela, she/her",
+            "localizacao": "São Paulo - Brasil (GMT-3)",
+            "linkedin": "https://www.linkedin.com/in/tixas2/",
+            "bio": "Letícia Santos é engenheira de software e dados na Datadog no time de Nova York, atuando remotamente do Brasil. É bacharel em Ciência da Computação na Universidade Federal do Amazonas em 2013. Trabalha com tecnologia e desenvolvimento de software desde 2009.",
+            "experiencias": "Desenvolvimento de software, arquiteto de soluções, liderança técnica, remoto",
+            "empresas": "Pesquisa, Neemu, AWS, Datadog",
+            "topicosDeInteresse": "Morar no exterior, Trabalho Remoto, Organização e Produtividade, Diversidade, Scrum, Carreira, Comunicação, Palestras e eventos, Pós-graduação, Balanço de vida e trabalho, Se tornando Mentor, Entrevistas, Customer facing, Gerenciamento de produtos/projetos, Como evoluir soft skills",
+            "areasTecnicasDeInteresse": "Data engineering, Machine Learning, Observabilidade, Cloud computing, Bancos de dados (e suas diferentes aplicações, tipos e formatos), Arquitetura de sistemas",
+            "tecnologias": "Python, Scala, Java, Hadoop Spark, AWS, C, C++, Perl, Nodejs, PHP, React"
+        },
+        {
+            "nome": "Ludimila Gonçalves",
+            "calendario": "https://calendly.com/ludigoncalves",
+            "pronomes": "ela/dela, she/her",
+            "localizacao": "Cidade do Cabo - África do Sul (GMT+2)",
+            "linkedin": "https://www.linkedin.com/in/ludimilagoncalves/",
+            "bio": "Ludimila Gonçalves é AI Tech Lead na Bemol Digital, atuando em projetos de inovação em Machine Learning/Deep Learning para o varejo, na liderança técnica do chapter de Engenharia de IA e na liderança de adoção de processos de Agilidade, Planos de Jornadas e Compartilhamento de Conhecimento em times de Data Science. Formada em Ciência da Computação e mestre em Informática com ênfase em Sistemas de Recomendação pela UFAM. Atua na área de Data Science desde 2017 e atualmente faz Doutorado com foco em NLP aplicada à Engenharia de Software, na UFAM.",
+            "experiencias": "Data science, liderança técnica, professor, trabalho remoto",
+            "empresas": "Pesquisa, UNINORTE, Bemol",
+            "topicosDeInteresse": "Liderança, Morar no Exterior, Trabalho Remoto, Organização e Produtividade, Agilidade em Data Science, Carreira, Pós-graduação",
+            "areasTecnicasDeInteresse": "Data Science, Machine Learning/Deep Learning, Engenharia de Software aplicada à Data Science, Estatística",
+            "tecnologias": "Python, Git, ecossistema de data science de desenvolvimento (scikit-learn, pandas, numpy e etc.), PyTorch"
+        },
+        {
+            "nome": "Jailson Pereira Januario",
+            "calendario": "https://calendly.com/jailsonjanuario",
+            "pronomes": "ele/dele",
+            "localizacao": "João Pessoa - Paraíba - Brasil",
+            "linkedin": "https://www.linkedin.com/in/jailson-pereira-574a09115/",
+            "bio": "Jailson Januario é Engenheiro de Dados na CI&T, atuando em projetos de Big Data e Machine Learning para segmentação de clientes e produtos. Formado em Sistemas de Informação pela UEA e aluno de mestrado em Informática pela UFAM com foco em NLP, Bias Detection e Deep Learning. Além disso, Jailson é membro organizador do PyData Manaus e da Coalizão VAC (Vozes Pela Ação Climática).",
+            "experiencias": "Engenheiro de Dados, Cientista de Dados, Trabalho Remoto.",
+            "empresas": "Itriad, Bemol, CI&T",
+            "topicosDeInteresse": "Trabalho remoto, Organização e produtividade, Diversidade, Comunidade, Palestras e Eventos, Pós-Graduação.",
+            "areasTecnicasDeInteresse": "Data Engineering, Machine Learning/Deep Learning, Banco de Dados, MLOps, Otimização.",
+            "tecnologias": "Python, Golang, Spark, GIT, Azure, Airflow, Ecossistema de Data Science (scikit-learn, pandas, numpy e etc), Pytorch, Tensoflow, FastAPI"
+        },
+        {
+            "nome": "Allex Lima",
+            "calendario": "https://calendly.com/allexlima/30min",
+            "pronomes": "ele/dele, he/his/him",
+            "localizacao": "São Paulo, SP - Brasil (GMT-3)",
+            "linkedin": "https://linkedin.com/in/allexlimas/",
+            "bio": "Allex é Arquiteto de Soluções na AWS Brasil apaixonado por impulsionar inovação através de métodos de aprendizagem de máquina e tecnologias em nuvem. Nas horas vagas, gosta de passar o tempo fazendo crochê ou brincando com seus três doguinhos simpáticos. No Amazonas, Allex foi um dos idealizadores e co-organizadores do PyData Manaus, além de se envolver ativamente com diversas outras comunidades para promover projetos de ciência de dados de código aberto. Atualmente, mora em São Paulo (SP) e está trabalhando principalmente com tecnologias serverless e MLOps.",
+            "experiencias": "Data Scientist, AI/ML Engineer, Solutions Architect",
+            "empresas": "Ume, Bemol Digital, AWS",
+            "topicosDeInteresse": "Cachorros, crochê e tricô, jogos de tabuleiro, ficção científica",
+            "areasTecnicasDeInteresse": "Deep learning, MLOps, Serverless, Database",
+            "tecnologias": "Python, C++, PyTorch, Tensorflow, Theano, Pandas"
+        },
+        {
+            "nome": "Guilherme Silva",
+            "calendario": "https://calendly.com/guilherme-mdasilva/30min",
+            "pronomes": "ele/dele, he/his/him",
+            "localizacao": "St Albans - United Kingdom (GMT+0)",
+            "linkedin": "https://www.linkedin.com/in/guilherme-silva-ab462b39/",
+            "bio": "Guilherme Silva é Arquiteto de Soluções na Amazon Web Services de Londres - Reino Unido. É bacharel e mestre em Ciência da Computação pela Universidade Federal do Amazonas. Há mais de 10 anos trabalhando com tecnologia em diversos segmentos como desenvolvimento (mobile, frontend, backend, fullstack), suporte e nuvem (AWS).",
+            "experiencias": "trabalho remoto, startup, big tech, arquiteto de soluções, desenvolvimento Android, desenvolvimento frontend, desenvolvimento backend, suporte técnico, entrevista, treinamento, mentoria",
+            "empresas": "NewsMonitor, Samsung (SIDIA), KaiOS/Alcatel/iTriad, Neemu/Linx, AWS",
+            "topicosDeInteresse": "Balanço de vida e trabalho, Interações com clientes (em vendas e suporte), Entrevistas, Produtividade, Trabalho Remoto, Morar no exterior, Progressão de Carreira",
+            "areasTecnicasDeInteresse": "Serverless, Arquitetura de Sistemas, Digital User Engagement",
+            "tecnologias": "AWS, NodeJS, React, Vue, Java, Python"
+        },
+        {
+            "nome": "Wladimir Araújo Neto",
+            "calendario": "https://calendly.com/dev-wlad/mentoria-1-on-1-30min",
+            "pronomes": "ele/dele | he/him",
+            "localizacao": "Manaus, AM - Brasil (GMT-4)>",
+            "linkedin": "https://www.linkedin.com/in/wladneto/",
+            "bio": "Graduado em Ciência da Computação pela UFAM, com especialização em Ciência de Dados pela UEA. Atuei por 3 anos como analista de software no Sidia, provendo suporte ao sistema de telefonia móvel (3G/4G/5G) dos smartphones da Samsung, além de criar ferramentas de automação em Python para auxiliar na produtividade do time. Atualmente, trabalho como Analista de Software Senior, sendo um dos líderes técnicos do time de Imaging, provendo suporte ao software de Qualidade de Imagem na HAL do Android para os smartphones da Motorola.",
+            "experiencias": "Desenvolvimento Embarcado em Android para Redes Móveis e para Fotografia Digital, trabalho remoto, entrevista, mentoria",
+            "empresas": "Sidia (Samsung), Eldorado (Motorola)",
+            "topicosDeInteresse": "Liderança, trabalho remoto, pós-graduação, carreira, entrevistas, interação com clientes (nacional/internacional)",
+            "areasTecnicasDeInteresse": "Desenvolvimento Embarcado (Android), Fotografia Computacional, Visão Computacional",
+            "tecnologias": "C++, Python"
+        },
+        {
+            "nome": "Germano Assis",
+            "calendario": "https://calendly.com/germanosk/30min",
+            "pronomes": "ele/dele, he/his/him",
+            "localizacao": "Ash Vale - United Kingdom (GMT 0)",
+            "linkedin": "https://www.linkedin.com/in/germanoassis/",
+            "bio": "Germano Assis é atualmente um programador senior na Mediatonic Games. É formado em Biologia pelo IFAM, possui uma especialização em arquitetura de software pelo IGTI.",
+            "experiencias": "Desenvolvimento de jogos, trabalho remoto",
+            "empresas": "Sidia, Black River Studios, Bravo Company, Mediatonic",
+            "topicosDeInteresse": "Entrevistas, Portfólio, Carreira, Morar no exterior, Trabalho Remoto",
+            "areasTecnicasDeInteresse": "Design patterns(Padrões de projeto), Arquiteturas para jogos",
+            "tecnologias": "Unity, C#, Unreal, C++, Android, Java"
+        }
+    ]
+}
