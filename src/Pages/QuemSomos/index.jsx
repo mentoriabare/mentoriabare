@@ -3,7 +3,7 @@ import './index.css'
 function QuemSomos() {
     return (
         <>
-        <div className="grid-x grid-padding-x">
+        <div className="grid-x grid-padding-x text-black">
             <div className="large-12 cell">
             <h2>Quem somos</h2>
             <p>Somos um grupo de ex-alunes da UFAM atuando em segmentos diversos da tecnologia pelo mundo
