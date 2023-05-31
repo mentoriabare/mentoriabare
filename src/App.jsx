@@ -8,10 +8,10 @@ function App() {
 
   return (
     <Router>
-      <header className='bg-[#F4F9F2]'>
+      <header className='bg-[#DEF2D6]'>
         <Header />
       </header>
-      <main className='w-full sm:p-8 px-4 py-8 bg-[#F4F9F2] min-h-[calc(100vh-80px)]'>
+      <main className='w-full sm:p-8 px-4 py-8 bg-[#DEF2D6] min-h-[calc(100vh-80px)]'>
         <Routes>
           <Route path="/" element={<QuemSomos/>} />
           <Route path="/mentoria" element={<Mentoria/>} />
