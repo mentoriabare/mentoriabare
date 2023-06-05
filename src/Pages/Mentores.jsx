@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react'
-import "./index.css";
 
 function Mentores() {
     const [data, setData] = useState(null)

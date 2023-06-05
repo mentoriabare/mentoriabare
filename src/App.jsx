@@ -1,21 +1,17 @@
-import './App.css'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Header from './Components/Header'
-import Footer from './Components/Footer'
-import QuemSomos from './Pages/QuemSomos'
-import Mentoria from './Pages/Mentoria'
-import Mentores from './Pages/Mentores'
-import Comunidade from './Pages/Comunidade'
-import Principios from './Pages/Principios'
-import ComoParticipar from './Pages/ComoParticipar'
-import FaleConosco from './Pages/FaleConosco'
+
+import { ComoParticipar, Comunidade, FaleConosco, Mentores, Mentoria, Principios, QuemSomos } from './Pages'
+import Header  from './Components/Header'
+
 
 function App() {
 
   return (
     <Router>
-      <Header/>
-      <main className='w-full sm:p-8 px-4 py-8 bg-[#f9fafe] min-h-[calc(100vh-80px)]'>
+      <header className='bg-[#DEF2D6]'>
+        <Header />
+      </header>
+      <main className='w-full sm:p-8 px-4 py-8 bg-[#DEF2D6] min-h-[calc(100vh-80px)]'>
         <Routes>
           <Route path="/" element={<QuemSomos/>} />
           <Route path="/mentoria" element={<Mentoria/>} />
@@ -26,7 +22,6 @@ function App() {
           <Route path="/fale-conosco" element={<FaleConosco/>} />
         </Routes>
       </main>
-      <Footer/>
     </Router>
   )
 }
